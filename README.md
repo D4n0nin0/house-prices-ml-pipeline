@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.2+-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # 🏠 House Prices - Advanced Regression Techniques
 
 A comprehensive machine learning pipeline for predicting house prices in Ames, Iowa, developed for the Kaggle competition.
@@ -43,5 +47,5 @@ pip install -r requirements.txt
     Train models: `python src/model_training.py`
 
     Generate predictions: `python src/generate_predictions.py`
-    
+
 ```
